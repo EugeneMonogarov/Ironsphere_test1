@@ -1,0 +1,141 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 5,
+		"createdAt": "",
+		"description": "<p>Find a demo for this product <a target=\"_blank\" href=\"https://www.youtube.com/watch?v=oQbtY93JpNE\" rel=\"noopener noreferrer nofollow\">HERE</a></p><p></p><p>These sounds were left dry, but adding a quick delay and reverb will really add some life to them.</p><p>Thanks for checking out my pack, feel free to use it in whatever project you like.</p><p></p><p>Included in this pack:</p><p>100+ Bleeps and Bloops</p><p>29 Clicks</p><p>12 Rings</p><p>31 Glitches</p><p>6 Impacts</p><p>Plus some other randoms</p>",
+		"isAiForbidden": true,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "2025-06-30T10:46:48.185694Z",
+		"listingType": "audio",
+		"media": "https://media.fab.com/image_previews/gallery_images/f8e4146f-9bae-4351-af24-c8f82c5bc64f/75be86b9-104c-4759-bdd2-a4a33a0e7cb4.png",
+		"publishedAt": "2025-06-30T10:46:48.206115Z",
+		"reviewCount": 3,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/053782d4-22a0-4947-ae78-7c876868c7c1/5eea1191-d254-416a-beae-f585c368458f.png",
+		"title": "SCI-FI UI SOUND EFFECTS PACK",
+		"uid": "d3d9b060-7b69-4130-91d3-c96c2f3cb549",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "",
+			"profileImageUrl": "https://cdn1.epicgames.com/fab/seller/o-lq6y6zudw8b4zxsxey5ckanb9lneg2/profile/d52e128f.png",
+			"sellerName": "Hove Audio",
+			"uid": "d4e5150a-13a6-4904-948f-ee2f55e02348"
+		},
+		"tags": [
+			{
+				"name": "Sound",
+				"slug": "sound",
+				"uid": "06e43003-1912-420d-a5c8-28572497f7dd"
+			},
+			{
+				"name": "Button",
+				"slug": "button",
+				"uid": "1cd61b93-5051-46e5-a0ce-3ae5354f045d"
+			},
+			{
+				"name": "Futuristic",
+				"slug": "futuristic",
+				"uid": "3ccbe53a-83ee-475a-967a-2468963b77cb"
+			},
+			{
+				"name": "Click",
+				"slug": "click",
+				"uid": "4fc72608-5e58-4e66-804b-ddb9e2dde7e9"
+			},
+			{
+				"name": "Scifi",
+				"slug": "scifi",
+				"uid": "50945d2d-b4f5-4e56-bda9-b81d5722599e"
+			},
+			{
+				"name": "Menu",
+				"slug": "menu",
+				"uid": "7590a799-8b10-4d17-9d14-543ac450e80e"
+			},
+			{
+				"name": "Interactive",
+				"slug": "interactive",
+				"uid": "814e5fc7-fdf9-4fe5-ab3e-72e1239bc891"
+			},
+			{
+				"name": "Technology",
+				"slug": "technology",
+				"uid": "956e493a-acc5-4464-8d12-aae04e1b1dc3"
+			},
+			{
+				"name": "Audio",
+				"slug": "audio",
+				"uid": "a53e9a2c-1acf-4968-8eeb-743456cddb30"
+			},
+			{
+				"name": "Userinterface",
+				"slug": "userinterface",
+				"uid": "e260c819-4cc3-4d9f-afc1-5ee236fdc965"
+			},
+			{
+				"name": "SoundEffect",
+				"slug": "soundeffect",
+				"uid": "f7f5a4f4-6cd7-4aa2-83bb-ba13196bddfb"
+			},
+			{
+				"name": "Interface",
+				"slug": "interface",
+				"uid": "f802b8f8-c74c-434f-a1c5-a9f4ec7992f5"
+			}
+		],
+		"category":
+		{
+			"name": "UI",
+			"path": "sound-effects/ui",
+			"slug": "sound-effects--ui",
+			"uid": "d81c0114-ab46-4643-b5b2-fddba17c1aac"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "Unity",
+					"groupName": "Game Engine Formats",
+					"code": "unity",
+					"icon": "unity",
+					"extensions": [
+						"unitypackage"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Unreal Engine",
+					"groupName": "Game Engine Formats",
+					"code": "unreal-engine",
+					"icon": "unreal-engine",
+					"extensions": [
+						"uasset",
+						"uproject"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "",
+	"quality": "",
+	"format": "unity",
+	"fileId": "32a96b90-7387-4fee-bd37-ff06badd5451",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": false
+}
